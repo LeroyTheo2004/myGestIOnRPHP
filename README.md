@@ -78,7 +78,13 @@ Voici à quoi ressemble le site :
 ![php 11](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/609558ad-0dcc-4d7c-8ccc-ddf99982a106)
 
 ## Tester une IP
-![php 12](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/d9cf2e4b-96e2-4e12-8825-0c808320029f)
+![php 12](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/14acff92-90d6-4633-877e-c7005182d91b)
+
+![php 13](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/b9ccfa08-a0d2-4239-9a28-e6948d914b93)
 
 ## Tester un port TCP
-![php 13](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/2375934b-55e4-41c5-ba8a-71ea49c25cd7)
+![php 14](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/4107688d-d424-4d2e-802b-dc2c42f0aa09)
+
+![php 15](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/9812173c-77ee-47ed-b1af-48ecef672555)
+
+
