@@ -44,12 +44,26 @@ Cette partie consiste à la création d'un profil GitHub afin de publier notre p
 
 Voici à quoi ressemble le site :
 
-# Menu principal
+## Menu principal
 ![php 1](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/e69b1eea-1ab2-4153-88b9-f7239029e883)
 
 ## Gestion du parc
-
 ![php 2](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/323cbc88-f80f-40b9-a891-d7739b2a6610)
+
+## Consulter les données
+![php 3](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/01475c2f-0578-4e47-9b93-f7cd3eb3b1ae)
+
+## Toutes les informations
+![php 4](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/f3ee5e9b-d55d-4e1a-ae5b-29f32b8a9b73)
+
+## Seulement les machines
+![php 5](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/23dfef85-318e-4aa0-9cc4-3ff040f0cb88)
+
+## Seulement les serveurs
+![php 6](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/3361b1b9-7490-4ccb-8119-605567f58f47)
+
+## Seulement les Switchs
+![php 7](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/e45192ed-b79b-4d26-b7e6-944ab7aab7ad)
 
 
 
