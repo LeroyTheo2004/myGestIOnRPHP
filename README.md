@@ -1,7 +1,7 @@
 # Présentation du projet
 
 Ce programme permet d’aider au quotidien les techniciens réseaux. 
-Grâce à ce programme on peut gérer une base de données via un site web et utiliser quelques outils réseaux.
+Grâce à ce programme on peut gérer une base de données via un site web et utiliser quelques outils réseaux que j'ai pu ajouté.
 L’objectif est donc de pouvoir gagner du temps pour la gestion de son parc informatique grâce au php.
 
 ### Description
