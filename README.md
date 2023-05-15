@@ -33,12 +33,11 @@ Les outils possibles dans Outils réseau :
 
 Cette mission consiste à créer une base de données pour pouvoir ainsi créer, ajouter, supprimer et modifier des informations pour gérer le parc informatique.
 
-### Partie 2 – Outils réseau 
+### Partie 2 – Les ajouts effectués en plus dans le projet
 
-Cette mission avait pour but de pouvoir offrir des éléments qui seront utiles pour les techniciens réseaux. 
-Ce sont donc des petits scripts en Bash qui ont été conçus afin de tester une IP, un port TCP, générer un .txt depuis la base de données et pour finir consulter les IP actives ou non de la base de données.
+J'ai ajouté une partie réseau qui permet de tester si une IP est active ou si un port TCP est ouvert sur une IP.
 
-### Partie 5 – Gestion des versions et publications
+### Partie 3 – Gestion des versions et publications
 
 Cette partie consiste à la création d'un profil GitHub afin de publier notre projet, avec une présentation complète.
 
