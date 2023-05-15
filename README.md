@@ -42,5 +42,9 @@ J'ai ajouté une partie réseau qui permet de tester si une IP est active ou si 
 
 Cette partie consiste à la création d'un profil GitHub afin de publier notre projet, avec une présentation complète.
 
-Voici à quoi ressemble le projet :
+Voici à quoi ressemble le site :
+
+# Menu principal
+![php 1](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/e69b1eea-1ab2-4153-88b9-f7239029e883)
+
 
