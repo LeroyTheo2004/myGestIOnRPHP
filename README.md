@@ -6,8 +6,8 @@ L’objectif est donc de pouvoir gagner du temps pour la gestion de son parc inf
 
 ### Description
 
-Je vais vous présenter les fonctionnalités du programme myGestIOnR en php.
-Ne pas oublier de changer les informations de connexion à sql en fonction des vôtres pour pouvoir voir votre base de données sur votre site.
+Je vais vous présenter les fonctionnalités du programme myGestIOnR en php. 
+Ne pas oublier de changer les informations de connexion à sql si vous envisager d'utiliser mon programme php.
 
 Les choix possibles dans gestion du parc : 
 
@@ -36,7 +36,7 @@ Cette mission consiste à créer une base de données pour pouvoir ainsi créer,
 
 ### Partie 2 – Les ajouts effectués en plus dans le projet
 
-J'ai ajouté une partie réseau qui permet de tester si une IP est active ou si un port TCP est ouvert sur une IP.
+J'ai ajouté une partie réseau qui permet de tester si une IP est active ou si un port TCP est ouvert sur une IP. Puis, j'ai aussi mis en place des contrôles de saisies sur les adresses IP, adresses MAC et le choix du port TCP. Pour empêcher des personnes d'écrire n'importe quoi.
 
 ### Partie 3 – Gestion des versions et publications
 
