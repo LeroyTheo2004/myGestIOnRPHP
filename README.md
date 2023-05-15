@@ -7,6 +7,7 @@ L’objectif est donc de pouvoir gagner du temps pour la gestion de son parc inf
 ### Description
 
 Je vais vous présenter les fonctionnalités du programme myGestIOnR en php.
+Ne pas oublier de changer les informations de connexion à sql en fonction des vôtres pour pouvoir voir votre base de données sur votre site.
 
 Les choix possibles dans gestion du parc : 
 
