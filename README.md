@@ -65,5 +65,20 @@ Voici à quoi ressemble le site :
 ## Seulement les Switchs
 ![php 7](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/e45192ed-b79b-4d26-b7e6-944ab7aab7ad)
 
+## Ajouter des données
+![php 8](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/c2dd6ed2-4faa-4157-b091-7e933dbe4d84)
 
+## Supprimer des données
+![php 9](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/4d6809d5-7c15-452f-887e-14d6d96cb0c4)
 
+## Modifier des données
+![php 10](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/42e7b7be-7100-418f-8ef0-0b099aa0aa53)
+
+## Outils réseau
+![php 11](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/609558ad-0dcc-4d7c-8ccc-ddf99982a106)
+
+## Tester une IP
+![php 12](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/d9cf2e4b-96e2-4e12-8825-0c808320029f)
+
+## Tester un port TCP
+![php 13](https://github.com/LeroyTheo2004/myGestIOnRPHP/assets/129506753/2375934b-55e4-41c5-ba8a-71ea49c25cd7)
